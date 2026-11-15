@@ -1,4 +1,4 @@
-# KSA People & Saudization Dashboard | Power BI
+# KSA HR & Saudization Dashboard | Power BI
 
 An end-to-end HR analytics project for a Saudi company (2022–2025): workforce size, attrition, hiring and **Saudization against yearly targets**, built in Power BI from raw, messy data to an interactive glass-style dashboard.
 

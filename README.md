@@ -142,18 +142,17 @@ Every KPI was checked against the source data, and all 672 filter combinations (
 
 ## 📁 Repository Contents
 
-- `KSA_HR_Saudization.pbix`: Full interactive Power BI report file.
 - `KSA_HR_Saudization_Data.xlsx`: Source dataset (synthetic, raw).
-- `HR_Glass_Theme.json`: Custom report theme.
 - `images3/`: Dashboard, Power Query and data model screenshots.
+
 
 ---
 
 ## ▶️ How to Use
 
 1. Open the **[live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTM2YWI3YzUtY2FlOC00NGNiLWI5NDYtOGNiM2M3YzVlYzg1IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)** in your browser, no install needed
-2. Or download the `.pbix` file and open it in Power BI Desktop
-3. Pick a year, department, city or nationality; use the ↺ button to reset
+2. Pick a year, department, city or nationality; use the ↺ button to reset
+
 
 ---
 
